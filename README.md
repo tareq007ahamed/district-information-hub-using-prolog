@@ -1,6 +1,6 @@
 # district-information-hub-using-prolog
 
-menu:-
+**menu::**
 
  op(1):- see the list of  districts.
  
